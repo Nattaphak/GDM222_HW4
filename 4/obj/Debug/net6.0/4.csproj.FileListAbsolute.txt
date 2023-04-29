@@ -1,0 +1,15 @@
+D:\Work\GDM222_HW4\4\bin\Debug\net6.0\4.exe
+D:\Work\GDM222_HW4\4\bin\Debug\net6.0\4.deps.json
+D:\Work\GDM222_HW4\4\bin\Debug\net6.0\4.runtimeconfig.json
+D:\Work\GDM222_HW4\4\bin\Debug\net6.0\4.dll
+D:\Work\GDM222_HW4\4\bin\Debug\net6.0\4.pdb
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.dll
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\refint\4.dll
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.pdb
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+D:\Work\GDM222_HW4\4\obj\Debug\net6.0\ref\4.dll
